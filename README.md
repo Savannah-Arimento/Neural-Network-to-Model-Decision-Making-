@@ -1,4 +1,3 @@
-# MATH456
 
 The prisoner’s dilemma is an extensively studied problem in game theory that models two rational
 agents that can either cooperate for their mutual benefit or can betray each other for a greater payoff.
